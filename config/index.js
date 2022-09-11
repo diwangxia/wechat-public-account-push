@@ -71,6 +71,9 @@ export const config = {
       name: "兰兰",
       id: "ooeIf5njqU2bUecUOwLgNWslZ1LM",
       useTemplateId: "UAHXC4c7STQwM2oWJQWvdtLSOFUv7ROXZkdxtFazPno",
+      horoscopeDate: '12-27',
+      // 获取什么时候的星座运势，可选：['今日', '明日', '本周', '本月', '今年'], 留空则随机
+      horoscopeDateType: '今日',
     },
     
     
@@ -104,8 +107,11 @@ export const config = {
     
     {
       name: "涛涛",
-      id: "ooeIf5njqU2bUecUOwLgNWslZ1LM",
+      id: "ooeIf5sLXk8QDYDplJgJeaOjaHrI",
       useTemplateId: "UAHXC4c7STQwM2oWJQWvdtLSOFUv7ROXZkdxtFazPno",
+      horoscopeDate: '10-14',
+      // 获取什么时候的星座运势，可选：['今日', '明日', '本周', '本月', '今年'], 留空则随机
+      horoscopeDateType: '今日',
     },
     
   ],
