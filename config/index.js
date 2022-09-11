@@ -50,6 +50,7 @@ export const config = {
       festivals: [
         // 注意：此条配置日期为阴历日期，因为`type`中 “生日” 之前有 * 符号
         {"type": "*生日", "name": "兰兰", "year": "2003", "date": "12-05"},
+        {"type": "*生日", "name": "涛涛", "year": "2001", "date": "08-28"},
         {"type": "节日", "name": "纪念日", "year": "2022", "date": "08-25"},
         // 注意：此条配置日期为阳历日期，因为`type`中 “生日” 之前没有 * 符号
         // {"type": "生日", "name": "李四", "year": "1996", "date": "09-31"},
@@ -76,7 +77,8 @@ export const config = {
       openUrl: "https://wangxinleo.cn",
       festivals: [
         // 注意：此条配置日期为阴历日期，因为`type`中 “生日” 之前有 * 符号
-        {"type": "*生日", "name": "涛涛", "year": "2001", "date": "10-14"},
+        {"type": "*生日", "name": "兰兰", "year": "2003", "date": "12-05"},
+        {"type": "*生日", "name": "涛涛", "year": "2001", "date": "08-28"},
         {"type": "节日", "name": "纪念日", "year": "2022", "date": "08-25"},
         // 注意：此条配置日期为阳历日期，因为`type`中 “生日” 之前没有 * 符号
         // {"type": "生日", "name": "李四", "year": "1996", "date": "09-31"},
