@@ -35,7 +35,7 @@ export const config = {
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: "ooeIf5njqU2bUecUOwLgNWslZ1LM",
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: "BO5Ixx6GKI2ami1FtV809ZJB42O9tRTwq08NWxhjXV0",
+      useTemplateId: "smA9Ui_iRhshE2e89nVb52LpVsyyFLmkOecD_D6KutI",
       // 所在省份
       province: "安徽",
       // 所在城市
@@ -66,10 +66,18 @@ export const config = {
         // {"keyword": "ex_day", date: "2022-09-10"},
       ]
     },
+    
+    {
+      name: "兰兰",
+      id: "ooeIf5njqU2bUecUOwLgNWslZ1LM",
+      useTemplateId: "UAHXC4c7STQwM2oWJQWvdtLSOFUv7ROXZkdxtFazPno",
+    },
+    
+    
     {
       name: "涛涛",
       id: "ooeIf5sLXk8QDYDplJgJeaOjaHrI",
-      useTemplateId: "zezxS7jDZKeogrbRbZAukl-B7B3lJwFGn9SlcL63X-w",
+      useTemplateId: "smA9Ui_iRhshE2e89nVb52LpVsyyFLmkOecD_D6KutI",
       province: "陕西",
       city: "西安",
       horoscopeDate: '10-14',
@@ -93,6 +101,13 @@ export const config = {
         // {"keyword": "ex_day", date: "2022-09-10"},
       ]
     },
+    
+    {
+      name: "涛涛",
+      id: "ooeIf5njqU2bUecUOwLgNWslZ1LM",
+      useTemplateId: "UAHXC4c7STQwM2oWJQWvdtLSOFUv7ROXZkdxtFazPno",
+    },
+    
   ],
 
   /**
