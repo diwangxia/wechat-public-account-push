@@ -39,7 +39,7 @@ export const config = {
       // 所在省份
       province: "安徽",
       // 所在城市
-      city: "芜湖",
+      city: "安庆",
       // 新历生日, 仅用作获取星座运势, 格式必须
       horoscopeDate: '12-27',
       // 获取什么时候的星座运势，可选：['今日', '明日', '本周', '本月', '今年'], 留空则随机
@@ -81,8 +81,8 @@ export const config = {
       name: "涛涛",
       id: "ooeIf5sLXk8QDYDplJgJeaOjaHrI",
       useTemplateId: "smA9Ui_iRhshE2e89nVb52LpVsyyFLmkOecD_D6KutI",
-      province: "陕西",
-      city: "西安",
+      province: "江苏",
+      city: "南京",
       horoscopeDate: '10-14',
       horoscopeDateType: '今日',
       openUrl: "https://wangxinleo.cn",
